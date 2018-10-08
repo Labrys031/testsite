@@ -1,0 +1,91 @@
+@media screen and (max-width: 461px) {
+     .top {
+         min-width: 200px;
+    }
+     .sin {
+         bottom: 20%;
+         font-size: 12px;
+    }
+     .b {
+         min-height: 250px;
+    }
+     .abt {
+         min-width: 200px;
+    }
+     .wrk {
+         min-width: 90px;
+    }
+}
+ @media screen and (max-width: 600px) and (min-width: 462px) {
+     .top {
+         min-width: 200px;
+    }
+     .b {
+         font-size: 12px;
+    }
+     .sin {
+         bottom: 13%;
+    }
+     .abt {
+         min-width: 200px;
+    }
+     .wrk {
+         min-width: 90px;
+    }
+}
+ @media screen and (max-width: 850px) and (min-width: 600px) {
+     .top {
+         min-width: 200px;
+    }
+     .sin {
+         bottom: 13%;
+    }
+     .cnt {
+         min-width: 200px;
+    }
+     .abt {
+         min-width: 200px;
+    }
+     .wrk {
+         min-width: 90px;
+    }
+     .mail {
+         left: 20%;
+         bottom: 10%;
+         max-width: 50px;
+    }
+     .in {
+         right: 20%;
+         bottom: 9%;
+         max-width: 40px;
+    }
+}
+ @media screen and (max-width: 1020px) {
+     .heltxt {
+         font-size: 14px;
+    }
+}
+ @media screen and (max-width: 1160px) {
+     .slideshow {
+         position: relative;
+         width: 100%;
+         left: 0;
+    }
+     .abttxt{
+         width: 100%;
+    }
+     .wrktxt{
+         width: 100%;
+    }
+     @media screen and (max-width: 1192px) and (min-width: 1021px) {
+         .sin {
+             bottom: 20%;
+        }
+         .wrktxt {
+             font-size: 14px;
+        }
+         .abttxt {
+             bottom: 5%;
+        }
+    }
+    
